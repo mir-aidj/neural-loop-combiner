@@ -1,0 +1,19 @@
+# exclude everything
+
+files/inputs/*
+files/outputs/*
+
+pretrained_models/*
+pretrained_models
+
+loopextractor/*
+loopextractor
+
+*.pyc
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# exception to the rule
+
+!files/inputs/.gitkeep
+!files/outputs/.gitkeep
