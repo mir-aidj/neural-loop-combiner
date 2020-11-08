@@ -3,7 +3,7 @@
 > *Proceedings of the 21st International Society for Music Information Retrieval Conference (ISMIR), 2020.*
 > Bo-Yu Chen, Jordan B. L. Smith, Yi-Hsuan Yang
 
-If you want to hear more audio example, please check the demo page [here](https://paulyuchen.com/Neural-Loop-Combiner-Demo/)
+If you want to hear more audio example, please check the demo page [here](https://paulyuchen.com/Neural-Loop-Combiner-Demo/)  
 If you want to play it in interactive way, please check [Beats with You](http://paulyuchen.com/beats-with-you/) [[code]](https://github.com/ChenPaulYu/beats-with-you)
 
 ## Prerequisites
