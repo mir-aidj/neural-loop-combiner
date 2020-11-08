@@ -78,11 +78,3 @@ python train.py [--gpu_num=0] [--lr=0.01] [--epochs=20] [--batch_size=128] [--lo
  
 ## Contact
 Please feel free to contact [Bo-Yu Chen](http://paulyuchen.com/) if you have any questions.
-
-
-
-
-
-
-
-
